@@ -1,4 +1,4 @@
-# This is Sample Code for Marketing Cloud SSJS POST API Called
+# This is Sample Code for Marketing Cloud SSJS POST API
 
 This topic I want to share the way to post api from the Server-Sode JavaScript in Marketing Cloud
 
